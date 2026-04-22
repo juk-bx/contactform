@@ -91,7 +91,7 @@ echo "<p class='fail'>❌ Message Failed to Send</p>";
 }
 ?>
 
-<a href="contact.html">Send Another Message</a>
+<a href="index.html">Send Another Message</a>
 
 </div>
 
